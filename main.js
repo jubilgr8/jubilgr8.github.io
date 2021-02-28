@@ -941,7 +941,7 @@ class FooterComponent {
     ngOnInit() { }
 }
 FooterComponent.ɵfac = function FooterComponent_Factory(t) { return new (t || FooterComponent)(); };
-FooterComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: FooterComponent, selectors: [["stitchwill-footer"]], decls: 17, vars: 20, consts: [["data-v-1c5cdfb2", "", 1, "o-bottom-navigation"], ["data-v-1c5cdfb2", "", 1, "sf-bottom-navigation"], ["data-v-1c5cdfb2", "", 1, "sf-bottom-navigation-item"], ["routerLinkActive", "active", 1, "sf-button", "sf-button--pure", "sf-bottom-navigation-item__icon", 2, "outline", "none", 3, "routerLink", "routerLinkActiveOptions"], ["_ngcontent-xfp-c55", "", 1, "ti-home"], ["_ngcontent-xfp-c55", "", 1, "ti-list"], ["_ngcontent-xfp-c55", "", 1, "ti-search"], ["_ngcontent-xfp-c55", "", 1, "ti-user"], ["data-v-1c5cdfb2", "", 1, "sf-bottom-navigation-item", "sf-bottom-navigation-item--floating"], ["routerLinkActive", "active", 1, "sf-button", "sf-circle-icon", 2, "outline", "none", 3, "routerLink", "routerLinkActiveOptions"], ["_ngcontent-xfp-c55", "", 1, "ti-shopping-cart"]], template: function FooterComponent_Template(rf, ctx) { if (rf & 1) {
+FooterComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: FooterComponent, selectors: [["stitchwill-footer"]], decls: 17, vars: 20, consts: [["data-v-1c5cdfb2", "", 1, "o-bottom-navigation"], ["data-v-1c5cdfb2", "", 1, "sf-bottom-navigation"], ["data-v-1c5cdfb2", "", 1, "sf-bottom-navigation-item"], ["routerLinkActive", "active", 1, "sf-button", "sf-button--pure", "sf-bottom-navigation-item__icon", 2, "outline", "none", 3, "routerLink", "routerLinkActiveOptions"], ["_ngcontent-xfp-c55", "", 1, "ti-home"], ["_ngcontent-xfp-c55", "", 1, "ti-list"], ["_ngcontent-xfp-c55", "", 1, "ti-search"], ["_ngcontent-xfp-c55", "", 1, "ti-user"], ["routerLinkActive", "active", 1, "sf-button", "sf-circle-icon", 2, "outline", "none", 3, "routerLink", "routerLinkActiveOptions"], ["_ngcontent-xfp-c55", "", 1, "ti-shopping-cart"]], template: function FooterComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "div", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "div", 2);
@@ -964,9 +964,9 @@ FooterComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineCo
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](13, "i", 7);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](14, "div", 8);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](15, "button", 9);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](16, "i", 10);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](14, "div", 2);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](15, "button", 8);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](16, "i", 9);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
